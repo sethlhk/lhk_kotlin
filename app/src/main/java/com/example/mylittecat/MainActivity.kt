@@ -28,7 +28,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background
                 ) {
-                    Cabecalho("Nora hyuki", cargo = "Neko de um café")
+                    Cabecalho("laura modesto", cargo = "Neko de um café")
                 }
             }
         }
